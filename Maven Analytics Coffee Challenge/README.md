@@ -25,3 +25,5 @@ In-program calculations: Finding average values and creating new columns to gran
   * Special pricing promotions, particularly for students, were recommended to leverage their higher frequency of coffee consumption outside.
   * Offering $100-$300 coffe gear could be a good starting point to probe the equipment demand. This price point is set below the average of $345 spent on coffee gear, targeting the largest segment that typically spends less.
 
+
+https://github.com/zefrios/Power-BI/blob/2b04c1789153f08b4835ce55da752a85ccbe5125/Maven%20Analytics%20Coffee%20Challenge/MavenCoffeeChallengeReport.pdf
