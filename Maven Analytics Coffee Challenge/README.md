@@ -26,4 +26,4 @@ In-program calculations: Finding average values and creating new columns to gran
   * Offering $100-$300 coffe gear could be a good starting point to probe the equipment demand. This price point is set below the average of $345 spent on coffee gear, targeting the largest segment that typically spends less.
 
 
-[Dashboard](MavenCoffeeChallengeReport_1.png)
+![](MavenCoffeeChallengeReport_1.png)
